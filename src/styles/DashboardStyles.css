@@ -1,0 +1,12 @@
+.dashboard-text{
+    color: wheat;
+  }
+
+  .main-container{
+    background-color: #234bc4;
+    width: 100%;
+    font-size: large;
+    height: 100%;
+    align-self: center;
+    justify-content: center;
+  }

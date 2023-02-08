@@ -1,0 +1,12 @@
+.button-text-access{
+    color: #D2D4DA;
+    text-decoration: underline;
+    font-size: 12px;
+  }
+body {
+  margin: 0;
+  padding: 0;
+  background-color:#D2D4DA;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
